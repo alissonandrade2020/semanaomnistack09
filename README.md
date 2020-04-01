@@ -26,7 +26,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -63,10 +62,24 @@ Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utiliz
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :memo: Licença
+## Descrição:
+Autor: Alisson de Andrade Araujo"
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+E-mail: alisson2d@hotmail.com
 
----
+Github: alissonandrade2020
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+## CONHEÇA MAIS SOBRE O DEV:
+Site Principal do Dev: http://alissondeandradearaujo.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/react/
+
+Site Dev: http://alissodeaaraujo.000webhostapp.com/index.html
+
+Site Dev: https://alissondeaaraujosistema.000webhostapp.com/
+
+Site Dev: https://alissonandradesistema.000webhostapp.com/
+
+Site Dev: https://alissonandradearaujosistema.000webhostapp.com/
+
+Site Dev: https://alissondeaaraujo.000webhostapp.com/index.html"
