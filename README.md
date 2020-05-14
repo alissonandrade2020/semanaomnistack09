@@ -63,7 +63,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## Descrição:
 
-Autor: Alisson de Andrade Araujo"
+Autor: Alisson de Andrade Araujo" 
 
 <h1 align="center">
     <img alt="Aircnc" title="#delicinha" src="https://avatars3.githubusercontent.com/u/39311340?s=400&u=f8570819489cb64bb45dfbfb85f2a82f1b56d11f&v=4" width="250px" />
