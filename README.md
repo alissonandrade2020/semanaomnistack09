@@ -81,9 +81,7 @@ Autor: Alisson de Andrade Araujo"
 
 - [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com)
 
- - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com)
- 
- - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app)
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19)
  
